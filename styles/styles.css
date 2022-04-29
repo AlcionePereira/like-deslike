@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aqua;
+    margin-top: 10px;
+    margin-left: 12px;
+
+}
+
+h1{
+    text-align: center;
+}
+
+input [type="checkbox"]{
+    display: block-;
+    margin: -100px;
+    
+   
+}
+
+.seg{
+    display: inline;
+    margin-left: 420px;
+}
+iframe{
+    display: flex;
+    display: inline;
+    margin-top: 135px;
+    margin-right: 12px;
+    
+}
+
